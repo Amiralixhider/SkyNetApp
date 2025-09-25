@@ -1,0 +1,8 @@
+
+workflows:
+  android:
+    name: Build Android app
+    scripts:
+      - name: Clean and Build
+        script: |
+          ./gradlew clean build

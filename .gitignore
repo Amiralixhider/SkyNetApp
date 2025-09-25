@@ -1,0 +1,14 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
+
+# google services and keystore
+app/google-services.json
+*.jks
+*.keystore
+keystore.properties

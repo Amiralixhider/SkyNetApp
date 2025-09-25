@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skynet Assistant</string>
+</resources>
+
+<string name="OPENAI_api_key">YOUR_OPENAI_API_KEY</string>

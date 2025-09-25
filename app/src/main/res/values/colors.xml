@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="skynet_black">#000000</color>
+    <color name="skynet_white">#FFFFFF</color>
+    <color name="skynet_red">#DC143C</color>
+    <color name="skynet_icon_bg">#FFFFFF</color>
+</resources>

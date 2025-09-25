@@ -1,0 +1,26 @@
+{
+  "fa": {
+    "master": {
+      "pitch": 0.98,
+      "rate": 0.9,
+      "voice": "fa-Standard-1"
+    },
+    "friend": {
+      "pitch": 1.12,
+      "rate": 1.05,
+      "voice": "fa-Standard-2"
+    }
+  },
+  "en": {
+    "master": {
+      "pitch": 1.0,
+      "rate": 0.95,
+      "voice": "en-Standard-B"
+    },
+    "friend": {
+      "pitch": 1.05,
+      "rate": 1.05,
+      "voice": "en-Standard-A"
+    }
+  }
+}

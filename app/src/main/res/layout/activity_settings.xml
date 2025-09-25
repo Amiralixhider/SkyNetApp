@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:padding="16dp"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="OpenAI API Key" android:textSize="16sp" />
+    <EditText android:id="@+id/et_openai" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:hint="Paste your OpenAI key here" />
+    <Button android:id="@+id/btn_save_openai" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="Save API Key"/>
+</LinearLayout>
